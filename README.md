@@ -48,10 +48,7 @@ This project generates:
 - **Histograms** for distribution analysis of independent variables.
 - **Time Series Plots** to identify trends and seasonality.
 - **Correlation Heatmaps** to reveal relationships between features.
-
-Example visual outputs include:
-- ![Sample Time Series Plot](path/to/sample_plot.png)
-- ![Correlation Matrix](path/to/correlation_matrix.png)
+  
 
 ## Contributing
 Contributions are welcome! Follow these steps:
@@ -74,7 +71,7 @@ Contributions are welcome! Follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-**Your Name**  
+**Saket Chaudhary**  
 Email: saketrishu64821@gmail.com  
 LinkedIn: [Saket Chaudhary](https://www.linkedin.com/in/Saket22-CS)
 
