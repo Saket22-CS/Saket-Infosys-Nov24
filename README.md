@@ -76,7 +76,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 **Your Name**  
 Email: saketrishu64821@gmail.com  
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/Saket22-CS)
+LinkedIn: [Saket Chaudhary](https://www.linkedin.com/in/Saket22-CS)
 
 
 
